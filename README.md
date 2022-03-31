@@ -1,3 +1,3 @@
 # aa-tis
 
-Sample commit
+PLAT-22 is getting fixed
